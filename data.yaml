@@ -1,0 +1,5 @@
+train: C:/Users/Admin/Desktop/DDS/train/images
+val: C:/Users/Admin/Desktop/DDS/valid/images
+
+nc: 13
+names: ['0', 'c0 - Safe Driving', 'c1 - Texting', 'c2 - Talking on the phone', 'c3 - Operating the Radio', 'c4 - Drinking', 'c5 - Reaching Behind', 'c6 - Hair and Makeup', 'c7 - Talking to Passenger', 'd0 - Eyes Closed', 'd1 - Yawning', 'd2 - Nodding Off', 'd3 - Eyes Open']
